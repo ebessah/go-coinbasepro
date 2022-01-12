@@ -1,4 +1,4 @@
-module github.com/ebessah/coinbasepro
+module github.com/ebessah/go-coinbasepro
 
 go 1.17
 
